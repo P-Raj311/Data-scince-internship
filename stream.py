@@ -1,3 +1,3 @@
-import streamlit as slt
+import streamlit as st
 
-slt.header('praveen')
+st.header('Hi Stream')
